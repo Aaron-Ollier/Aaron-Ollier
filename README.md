@@ -27,7 +27,7 @@
 
 - 👋 Hi, I’m Aaron Ollier
 - 👀 I’m interested in Code 
-- 🌱 I’m currently learning HTMLK and JavaScript 
+- 🌱 I’m currently learning HTML, Css, Python and JavaScript 
 - 💞️ I’m looking to collaborate on anything and evrything
 - 📫 How to reach me aaronollier2207@gmail.com / AlphaZero#0286
 
