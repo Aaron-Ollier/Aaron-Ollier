@@ -26,10 +26,10 @@
 
 
 - 👋 Hi, I’m Aaron Ollier
-- 👀 I’m interested in Code 
-- 🌱 I’m currently learning HTML, Css, Python and JavaScript 
+- 👀 I’m interested in Codeing, Formula 1/Anything with an engine, mixed martial arts, Pc building and lifting at the gym just to name a few
+- 🌱 I’m currently learning HTML, CSS, Python, JavaScript and C#  
 - 💞️ I’m looking to collaborate on anything and evrything
-- 📫 How to reach me aaronollier2207@gmail.com / AlphaZero#0286
+- 📫 How to reach me aaronollier2207@gmail.com / AlphaOscar#0286
 
 <!---
 Aaron-Ollier/Aaron-Ollier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
