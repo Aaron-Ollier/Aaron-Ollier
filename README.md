@@ -16,18 +16,14 @@
    <a href="https://open.spotify.com/user/johnollier16?si=239669272138486f" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2069/130/_Social_Media_Three-128.png" height="50px" alt="Twitter"/></a>	
 </p>
 
-<p align="center">
-	<a href="https://discord.gg/NMUeYSHwuV" title="Join my Discord!" target="_blank">
-		<img draggable="false" src="https://discord.com/api/guilds/1007793201463164948/widget.json" height="76px" draggable="false" alt="Join my Discord!"/>
-	</a>
+<p src="https://discord.com/widget?id=1007793201463164948&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
 </p>
-
 
 - 👋 Hey, I’m Aaron Ollier.
 - 👀 I’m interested in Codeing, Formula 1/Anything with an engine, MMA, Pc building and Lifting at the gym just to name a few.
 - 🌱 I’m currently learning HTML, CSS, Python, JavaScript and C#. 
 - 💞️ I’m looking to collaborate on anything and evrything.
-- 📫 How to reach me aaronollier2207@gmail.com / AlphaOscar#0286.
+- 📫 How to reach me aaronollier2207@gmail.com / https://discord.gg/NMUeYSHwuV
 <!---
    Aaron-Ollier/Aaron-Ollier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    You can click the Preview link to take a look at your changes.
