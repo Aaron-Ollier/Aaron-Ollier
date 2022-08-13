@@ -4,16 +4,11 @@
 <!--
    <p align="center">Check Out My Site!</a></p>-->
 <h4 align="center">Social Accounts:</h4>
+
 <p align="center">
-   <a href="https://github.com/Aaron-Ollier"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2069/130/_Social_Media_One-128.png" height="50px" alt="Github"/></a>
-   <a href="https://www.reddit.com/user/LRNINJAz" target="_blank"><img src="![image](https://user-images.githubusercontent.com/102698678/184458707-e8c552e0-8a09-4722-9750-9e9666ded67e.png)" height="50px" alt="Twitter"/></a>
-   <a href="https://twitter.com/Alpha.Zero" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2069/130/_Twitter-128.png" height="50px" alt="Twitter"/></a>
-   <a href="https://open.spotify.com/user/johnollier16?si=239669272138486f" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2069/130/_Social_Media_Three-128.png" height="50px" alt="Twitter"/></a>
-</p>
-<p align="center">
-   <a href="https://discord.gg/NMUeYSHwuV" title="Join our Discord!" target="_blank">
-   <img draggable="false" src="https://discordapp.com/api/guilds/775364324083499038/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!"/>
-   </a>
+	<a href="https://www.instagram.com/aaron0llier/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-128.png" height="50px" alt="Instagram"/></a>
+	<a href="https://github.com/Aaron-Ollier" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-128.png" height="50px" alt="GitHub"/></a>
+   <a href="https://open.spotify.com/user/johnollier16?si=239669272138486f" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2069/130/_Social_Media_Three-128.png" height="50px" alt="Twitter"/></a>	
 </p>
 - 👋 Hey, I’m Aaron Ollier.
 - 👀 I’m interested in Codeing, Formula 1/Anything with an engine, MMA, Pc building and Lifting at the gym just to name a few.
