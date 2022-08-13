@@ -18,7 +18,7 @@
 
 <p align="center">
 	<a href="https://discord.gg/NMUeYSHwuV" title="Join my Discord!" target="_blank">
-		<img draggable="false" src="https://discordapp.com/api/guilds/708323454881103882/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!"/>
+		<img draggable="false" src="https://discord.com/api/guilds/1007793201463164948/widget.json" height="76px" draggable="false" alt="Join my Discord!"/>
 	</a>
 </p>
 
