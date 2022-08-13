@@ -3,6 +3,11 @@
 <h3 align="center">Hey my name's Aaron! I'm a programer from England.</h3>
 <!--
    <p align="center">Check Out My Site!</a></p>-->
+   <p align="center">
+	<a href="https://aarontech.co.uk" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_web-128.png" height="35px"/></a>
+	<a href="mailto:me@aaronollier2207@gmail.com" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/154/social-media__email-128.png" height="35px"/></a>
+	<a href="https://www.linkedin.com/in/aaron-ollier" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-128.png" height="35px"/></a>
+</p>
 <h4 align="center">Social Accounts:</h4>
 
 <p align="center">
@@ -10,6 +15,14 @@
 	<a href="https://github.com/Aaron-Ollier" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_GitHub-128.png" height="50px" alt="GitHub"/></a>
    <a href="https://open.spotify.com/user/johnollier16?si=239669272138486f" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2069/130/_Social_Media_Three-128.png" height="50px" alt="Twitter"/></a>	
 </p>
+
+<p align="center">
+	<a href="https://discord.gg/NMUeYSHwuV" title="Join my Discord!" target="_blank">
+		<img draggable="false" src="https://discordapp.com/api/guilds/708323454881103882/widget.png?style=banner2" height="76px" draggable="false" alt="Join my Discord!"/>
+	</a>
+</p>
+
+
 - 👋 Hey, I’m Aaron Ollier.
 - 👀 I’m interested in Codeing, Formula 1/Anything with an engine, MMA, Pc building and Lifting at the gym just to name a few.
 - 🌱 I’m currently learning HTML, CSS, Python, JavaScript and C#. 
