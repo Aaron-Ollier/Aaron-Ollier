@@ -1,6 +1,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Aaron-Ollier}/count.svg" alt="Aaron • View Count"/></p>
 <h1 align="center">Hey, You found me! :wave:</h1>
-<h3 align="center">Hey my name's Aaron! I'm a programer from England.</h3>
+<h3 align="center">Hey my name's Aaron! I'm a programer from the UK 🇬🇧.</h3>
 <!--
    <p align="center">Check Out My Site!</a></p>-->
    <p align="center">
