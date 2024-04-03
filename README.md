@@ -20,9 +20,9 @@
 
 - 👋 Hey, I’m Aaron Ollier.
 - 👀 I’m interested in Codeing, Formula 1/Anything with an engine, MMA, Pc building and Lifting at the gym just to name a few.
-- 🌱 I’m currently learning HTML, CSS, Python, JavaScript and C#. 
+- 🌱 I’m currently learning VB.NET, JavaScript, ,JQuery, HTML, CSS. 
 - 💞️ I’m looking to collaborate on anything and evrything.
-- 📫 How to reach me aarontech.co.uk@gmail.com / https://discord.gg/NMUeYSHwuV
+- 📫 How to reach me: Add my discord - .alphaoscar
 <!---
    Aaron-Ollier/Aaron-Ollier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
    You can click the Preview link to take a look at your changes.
